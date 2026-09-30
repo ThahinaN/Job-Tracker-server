@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "name": "thahina",
+      "email": "thahina2001@gmail.com",
+      "password": "Thahina@123",
+      "id": 1
+    },
+    {
+      "name": "thahina",
+      "email": "thahina2001@gmail.com",
+      "password": "Thahina@123",
+      "id": 2
+    },
+    {
+      "name": "thahina",
+      "email": "thahina2001@gmail.com",
+      "password": "Thahina@123",
+      "id": 3
+    },
+    {
+      "name": "thahina",
+      "email": "",
+      "password": "Thahina@123",
+      "id": 4
+    },
+    {
+      "name": "Farhan T",
+      "email": "farhan@gmail.com",
+      "password": "Farhan@123",
+      "id": 5,
+      "jobTitle": "MERN Intern",
+      "phone": "07356930165"
+    },
+    {
+      "name": "Nidhin Chandran",
+      "email": "nidhin@gmail.com",
+      "phone": "9567991716",
+      "jobTitle": "Mechanical Engineer",
+      "password": "Nidhin@123",
+      "id": 6
+    }
+  ],
+  "applications": [
+    {
+      "userId": 5,
+      "company": "Wipro",
+      "position": "Data Analyst",
+      "location": "TVRM",
+      "jobType": "Full Time",
+      "applicationDate": "2026-10-01",
+      "status": "Selected",
+      "jobUrl": "https://www.wipro.com/",
+      "notes": "Interview at sharp 10.00 am so make it in time don't be late prepare well!!",
+      "id": 1,
+      "jobTitle": "DataAnayist"
+    },
+    {
+      "userId": 6,
+      "company": "Hundai",
+      "position": "Mechanical Enginer",
+      "location": "Chennai",
+      "jobType": "Full Time",
+      "applicationDate": "2026-10-02",
+      "status": "Offer",
+      "jobUrl": "https://www.hyundai.com/in/en",
+      "notes": "dream job",
+      "id": 2
+    }
+  ]
+}
